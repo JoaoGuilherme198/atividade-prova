@@ -1,0 +1,25 @@
+* {
+    background-image: url(https://th.bing.com/th/id/OIP.3UwZa8xmjBb_a-guW14YPAHaDz?pid=ImgDet&rs=1);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    
+
+}
+
+
+
+.whatsapp-link {
+    margin-top: 20px;   
+    
+}
+
+.whatsapp-link img {
+    width: 20px; 
+    vertical-align: middle; 
+}
+
+.localizacao-link {
+   
+    margin-top: 20px;
+}
